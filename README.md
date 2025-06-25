@@ -1,2 +1,2 @@
 # BI-Dashboard 1
- Ecommerce Sales dashboard
+This Power BI report presents a comprehensive Sales Dashboard designed to visualize key performance indicators such as total revenue, profit, quantity sold, and regional performance. It allows users to interactively explore trends across time periods, product categories, customer segments, and geographical locations. The dashboard is ideal for business stakeholders looking to gain actionable insights and make data-driven decisions. The visualizations are clean, dynamic, and filter-enabled for ease of analysis.
